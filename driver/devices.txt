@@ -1,0 +1,1 @@
+[{"name": "USB2.0 HD UVC WebCam (Composite Parent)", "vid":"13D3", "pid": "5666"},{"name": "USB2.0 HD UVC WebCam (Interface 0)", "vid":"13D3", "pid": "5666"},{"name": "a9tvl", "vid":"8087", "pid": "0AAA"}]
